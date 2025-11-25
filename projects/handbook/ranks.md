@@ -1,6 +1,6 @@
 # Ranks
 
-Phoenix Legion uses a rank system to denote hierarchy and roles within its divisions. Below is a breakdown of the ranks for each division:
+Red Right Hand uses a rank system to denote hierarchy and roles within its divisions. Below is a breakdown of the ranks for each division:
 
 | -      | Description         | Naval                     | Marine                  |
 | ------ | ------------------- | ------------------------- | ----------------------- |
@@ -11,7 +11,7 @@ Phoenix Legion uses a rank system to denote hierarchy and roles within its divis
 | Rank 4 | Leads leadership    | [Commodore](#commodore)   | [Commander](#commander) |
 | Rank 5 | Strategic command   | [Admiral](#admiral)       | [General](#general)     |
 
-Each rank comes with its own set of responsibilities and expectations, contributing to the overall effectiveness and discipline of the Phoenix Legion.
+Each rank comes with its own set of responsibilities and expectations, contributing to the overall effectiveness and discipline of the Red Right Hand.
 
 ## Naval Ranks
 
