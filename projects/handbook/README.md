@@ -1,5 +1,5 @@
-# Red Right Hand Handbook
+# 174th Battle Group "Red Right Hand" Handbook
 
-> The book that governs the Red Right Hand organisation.
+> The book that governs the 174th Battle Group "Red Right Hand" organisation.
 
-This project contains the handbook for the Red Right Hand organisation in Star Citizen. It outlines the rules, guidelines, and structure that members should follow to ensure a cohesive and enjoyable experience for all.
+This handbook contains the rules, guidelines, and structure that members of the 174th Battle Group "Red Right Hand" organisation in Star Citizen should follow to ensure a cohesive and enjoyable experience for all.
