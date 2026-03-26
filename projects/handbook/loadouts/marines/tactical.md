@@ -1,4 +1,4 @@
-# Tactical Marine Loadout
+# Tactical Loadout
 
 - **Undersuit:** [Stoneskin Undersuit](https://starcitizen.tools/Stoneskin_Undersuit)
 - **Helmet:** [DustUp Helmet Tactical](https://starcitizen.tools/DustUp_Helmet_Tactical)

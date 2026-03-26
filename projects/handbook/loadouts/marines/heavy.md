@@ -1,4 +1,4 @@
-# Heavy Marine Loadout
+# Heavy Loadout
 
 - **Undersuit:** [Stoneskin Undersuit](https://starcitizen.tools/Stoneskin_Undersuit)
 - **Helmet:** [Defiance Helmet Tactical](https://starcitizen.tools/Defiance_Helmet_Tactical)
