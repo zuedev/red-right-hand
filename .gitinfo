@@ -1,1 +1,9 @@
-root: https://git.zue.dev/red-right-hand
+{
+  "$schema": "https://git.zue.dev/?p=gitinfo;a=blob_plain;f=gitinfo.schema.json;h=dcaa23a9f934993b1b64d502bb42a3a94e170280;hb=HEAD",
+  "root": "https://git.zue.dev/red-right-hand",
+  "gitmail": "patches+red-right-hand@zue.dev",
+  "description": "Unnamed Group's Star Citizen organisation",
+  "mirrors": ["https://github.com/zuedev/red-right-hand"],
+  "maintainers": [["Alex (@zuedev)", "zuedev@gmail.com"]],
+  "license": "Unlicense",
+}
