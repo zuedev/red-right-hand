@@ -8,6 +8,6 @@
 - **Weapons:**
   - [Pulverizer LMG](https://starcitizen.tools/Pulverizer_LMG)
   - [Boomtube Rocket Launcher](https://starcitizen.tools/Boomtube_Rocket_Launcher)
-  - [Salvo Frag Pistol](https://starcitizen.tools/Salvo_Frag_Pistol)
+  - [TripleDown Shotgun Pistol](https://starcitizen.tools/TripleDown_Shotgun_Pistol)
 
 <img src="https://media.starcitizen.tools/f/f9/Defiance_Tactical_armor_set.jpg" height="500" />
