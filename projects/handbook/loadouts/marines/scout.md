@@ -9,4 +9,4 @@
   - [P6-LR Sniper Rifle](https://starcitizen.tools/P6-LR_Sniper_Rifle)
   - [Yubarev Pistol](https://starcitizen.tools/Yubarev_Pistol)
 
-<img src="https://media.starcitizen.tools/0/03/DustUp_Tactical_armor_set.jpg" height="500" />
+<img src="https://media.starcitizen.tools/e/ee/Arden-SL_-_Default.png" height="500" />
