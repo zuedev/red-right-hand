@@ -1,10 +1,10 @@
 # Scout Loadout
 
-- **Undersuit:** [ForceFlex Undersuit](https://starcitizen.tools/ForceFlex_Undersuit)
-- **Helmet:** [Ardel-SL Helmet](https://starcitizen.tools/Ardel-SL_Helmet)
-- **Armor:** [Ardel-SL Core](https://starcitizen.tools/Ardel-SL_Core)
-- **Arms:** [Ardel-SL Arms](https://starcitizen.tools/Ardel-SL_Arms)
-- **Legs:** [Ardel-SL Legs](https://starcitizen.tools/Ardel-SL_Legs)
+- **Undersuit:** [Stoneskin Undersuit](https://starcitizen.tools/Stoneskin_Undersuit)
+- **Helmet:** [Arden-SL Helmet](https://starcitizen.tools/Arden-SL_Helmet)
+- **Armor:** [Arden-SL Core](https://starcitizen.tools/Arden-SL_Core)
+- **Arms:** [Arden-SL Arms](https://starcitizen.tools/Arden-SL_Arms)
+- **Legs:** [Arden-SL Legs](https://starcitizen.tools/Arden-SL_Legs)
 - **Weapons:**
   - [P6-LR Sniper Rifle](https://starcitizen.tools/P6-LR_Sniper_Rifle)
   - [Yubarev Pistol](https://starcitizen.tools/Yubarev_Pistol)
