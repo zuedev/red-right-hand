@@ -1,5 +1,5 @@
-# Red Right Hand Monorepo
+<img src="assets/red-right-hand.png" width="200"/>
 
-> Central repo for Red Right Hand projects
+# Red Right Hand
 
-This monorepo contains various projects related to the Red Right Hand organization in Star Citizen. Each project serves a specific purpose, from maintaining the organization's handbook to managing the RSI Org Page.
+> Unnamed Group's Star Citizen organization
