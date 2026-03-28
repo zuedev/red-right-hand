@@ -61,3 +61,6 @@ Though we may have access to a variety of ships, the following are the standard 
     - **Field Hospital**
       - **Role:** A ship designed to provide advanced medical care and support for our personnel during extended missions, equipped with state-of-the-art medical facilities and staffed by highly trained medical personnel.
       - **Ship:** [Apollo Medivac](https://starcitizen.tools/Apollo_Medivac)
+- **Minelayer**
+  - **Role:** A ship designed to deploy mines and other area-denial weapons, capable of creating defensive perimeters or disrupting enemy movements.
+  - **Primary Ship:** [Nautilus](https://starcitizen.tools/Nautilus)
