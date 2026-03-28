@@ -54,3 +54,10 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Ambulance**
   - **Role:** A ship designed to provide medical support and evacuation for our personnel, equipped with advanced medical facilities and capable of transporting injured personnel to safety.
   - **Primary Ship:** [Terrapin Medic](https://starcitizen.tools/Terrapin_Medic)
+  - **Variants**
+    - **Rescue Ship**
+      - **Role:** A ship designed to perform search and rescue operations, capable of quickly reaching and extracting personnel from dangerous situations.
+      - **Ship:** [Cutlass Red](https://starcitizen.tools/Cutlass_Red)
+    - **Field Hospital**
+      - **Role:** A ship designed to provide advanced medical care and support for our personnel during extended missions, equipped with state-of-the-art medical facilities and staffed by highly trained medical personnel.
+      - **Ship:** [Apollo Medivac](https://starcitizen.tools/Apollo_Medivac)
