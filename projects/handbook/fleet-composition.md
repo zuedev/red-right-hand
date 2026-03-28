@@ -64,3 +64,10 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Minelayer**
   - **Role:** A ship designed to deploy mines and other area-denial weapons, capable of creating defensive perimeters or disrupting enemy movements.
   - **Primary Ship:** [Nautilus](https://starcitizen.tools/Nautilus)
+- **Snub Fighter**
+  - **Role:** A small and agile fighter designed for hit-and-run tactics, capable of quickly engaging and disengaging from enemy forces.
+  - **Primary Ship:** [Fury](https://starcitizen.tools/Fury)
+  - **Variants**
+    - **Snub Bomber**
+      - **Role:** A variant of the snub fighter designed to deliver overwhelming missile firepower against enemy targets, capable of quickly engaging and disengaging from combat while delivering devastating strikes.
+      - **Ship:** [Fury MX](https://starcitizen.tools/Fury_MX)
