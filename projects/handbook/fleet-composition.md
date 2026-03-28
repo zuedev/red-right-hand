@@ -15,7 +15,7 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Space Superiority Fighter**
   - **Role:** A fast and agile fighter designed for space combat, capable of engaging enemy ships and screening for larger vessels.
   - **Primary Ship:** [Scorpius](https://starcitizen.tools/Scorpius)
-  - **Variants:**
+  - **Variants**
     - **Vanduul**
       - **Role:** For missions where we need to blend in with Vanduul forces or operate in Vanduul-controlled space.
       - **Ship:** [Glaive (replica)](<https://starcitizen.tools/Glaive_(replica)>)
@@ -25,7 +25,7 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Ground Bomber**
   - **Role:** A ship designed to deliver powerful ordnance against ground targets.
   - **Primary Ship:** [A1 Spirit](https://starcitizen.tools/A1_Spirit)
-  - **Variants:**
+  - **Variants**
     - **Scorched-Earth**
       - **Role:** For missions where we need to deny the enemy access to resources or territory, capable of delivering powerful area-of-effect weapons to destroy infrastructure and resources.
       - **Ship:**[A2 Hercules Starlifter](https://starcitizen.tools/A2_Hercules_Starlifter)
@@ -41,7 +41,7 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Command Ship**
   - **Role:** A ship designed to serve as the command center for our fleet, equipped with advanced communication and sensor systems to coordinate fleet operations and provide situational awareness as well as dedicated medical facilities to support our personnel during extended missions.
   - **Primary Ship:** [Idris-K](https://starcitizen.tools/Idris-K)
-  - **Variants:**
+  - **Variants**
     - **Patrol Ship**
       - **Role:** A lighter and more agile variant of the command ship, designed for reconnaissance and patrol missions, capable of operating independently or as part of a larger fleet.
       - **Ship:** [Polaris](https://starcitizen.tools/Polaris)
