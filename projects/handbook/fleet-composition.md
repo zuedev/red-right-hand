@@ -6,7 +6,7 @@ The fleet composition must adhere to the following design principles:
 
 - **Self-Sufficiency:** We are disconnected from UEE supply lines, so we need to be able to maintain and repair our ships independently.
 - **Versatility:** Our fleet must be capable of handling a wide range of missions, from combat to exploration to trade.
-- **Unorthodox:** Due to the nature of the missions we undertake, we may need to utilize unconventional ships or configurations that are not typically seen in standard UEE fleets.
+- **Quality over Quantity:** We will prioritize maintaining a smaller fleet of high-quality, well-maintained ships over a larger fleet of lower-quality vessels.
 
 ## Standard Issue Ships
 
