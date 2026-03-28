@@ -48,3 +48,6 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Carrier**
   - **Role:** A ship designed to serve as a mobile staging point for our fleet, capable of launching and recovering smaller vessels and providing support for extended missions.
   - **Primary Ship:** [Kraken](https://starcitizen.tools/Kraken)
+- **Interdictor**
+  - **Role:** A ship designed to disrupt enemy communications and sensor systems, capable of jamming or hacking enemy vessels to gain an advantage in combat or reconnaissance.
+  - **Primary Ship:** [Vanguard Sentinel](https://starcitizen.tools/Vanguard_Sentinel)
