@@ -51,3 +51,6 @@ Though we may have access to a variety of ships, the following are the standard 
 - **Interdictor**
   - **Role:** A ship designed to disrupt enemy communications and sensor systems, capable of jamming or hacking enemy vessels to gain an advantage in combat or reconnaissance.
   - **Primary Ship:** [Vanguard Sentinel](https://starcitizen.tools/Vanguard_Sentinel)
+- **Ambulance**
+  - **Role:** A ship designed to provide medical support and evacuation for our personnel, equipped with advanced medical facilities and capable of transporting injured personnel to safety.
+  - **Primary Ship:** [Terrapin Medic](https://starcitizen.tools/Terrapin_Medic)
