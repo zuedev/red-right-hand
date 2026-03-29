@@ -89,3 +89,9 @@ A small and agile fighter designed for hit-and-run tactics, capable of quickly e
 
 - **Primary Ship:** [Fury](https://starcitizen.tools/Fury)
 - **Snub Bomber Variant:** [Fury MX](https://starcitizen.tools/Fury_MX) — Designed to deliver overwhelming missile firepower against enemy targets, capable of quickly engaging and disengaging from combat while delivering devastating strikes.
+
+### Anti-Swarm Ship
+
+A ship designed to engage and destroy smaller aerospace threats such as enemy fighters and ordnance, equipped with multiple rapid-fire weapons and advanced targeting systems to effectively counter many targets in parallel as well as providing overwhelming suppression against ground targets.
+
+- **Primary Ship:** [Hammerhead](https://starcitizen.tools/Hammerhead)
