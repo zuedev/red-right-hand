@@ -81,7 +81,23 @@
         const userId = `user_${fingerprint}`;
 
         let hostId = `public.174bg.uee`;
+
+        let commonCommands = {
+          vitepress: {
+            name: "vitepress",
+            description: "visit the 174th Battle Group's documentation",
+            func: async () => {
+              window.open(
+                "https://vitepress.red-right-hand.unnamed.group",
+                "_blank",
+                "noopener noreferrer",
+              );
+            },
+          },
+        };
+
         let commands = {
+          ...commonCommands,
           about: {
             name: "about",
             description: "learn more about the 174th Battle Group",
@@ -124,6 +140,7 @@
           hostId = `secure.rrr.uee`;
 
           commands = {
+            ...commonCommands,
             about: {
               name: "about",
               description: "learn more about the Red Right Hand",
